@@ -1,4 +1,4 @@
-# SistemaCentroObstetricoMujer
+## SistemaCentroObstetricoMujer
 
 (Imágenes con información de prueba - Sistema en construcción)
 
@@ -28,7 +28,7 @@
 * Momentaneamente cuenta con 3 menús
 * Multiusuario
 
-# MENU PANEL
+### MENU PANEL
 
 * Muestra cantidad de pacientes atendidos
 * Cantidad de pacientes varones
@@ -36,7 +36,7 @@
 * Cantidad de pacientes niños
 * Grafico indicador de cantidad de pacientes por mes
 
-# MENU PACIENTE
+### MENU PACIENTE
 
 * Tabla de visualización de pacientes registrados
 * Registro de Paciente
@@ -44,13 +44,13 @@
 * Visualiación en pdf de información completa de paciente
 * Exportación de datos en excel y pdf
 
-# MENU PATOLOGIA
+### MENU PATOLOGIA
 
 * Visualizacipon de patologias registradas a pacientes
 * Registro de patologia identificando que la historia clinica de paciente exista.
 * Exportación de datos en excel y pdf
 
-# TENOLOGIA UTILIZADA
+### TENOLOGIA UTILIZADA
 * PHP MVC
 * BOOTSTRAP 4
 * JAVASCRIPT JQUERY
