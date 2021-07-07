@@ -22,13 +22,13 @@
 
 ![image](https://user-images.githubusercontent.com/14944400/116325776-95781d80-a788-11eb-9d07-6c5758810c94.png)
 
-## SISTEMA CENTRO OBSTETRICO MUJER (Desarrollo particular SIN EQUIPO en construcción)
+## SISTEMA CENTRO OBSTETRICO MUJER (Desarrollo particular SIN EQUIPO, en construcción)
 
 
 * Momentaneamente cuenta con 3 menús
 * Multiusuario
 
-### MENU PANEL
+## MENU PANEL
 
 
 * Muestra cantidad de pacientes atendidos
@@ -37,7 +37,7 @@
 * Cantidad de pacientes niños
 * Grafico indicador de cantidad de pacientes por mes
 
-### MENU PACIENTE
+## MENU PACIENTE
 
 
 * Tabla de visualización de pacientes registrados
@@ -46,14 +46,14 @@
 * Visualiación en pdf de información completa de paciente
 * Exportación de datos en excel y pdf
 
-### MENU PATOLOGIA
+## MENU PATOLOGIA
 
 
 * Visualizacion de patologias registradas a pacientes
 * Registro de patologia identificando que la historia clinica de paciente exista.
 * Exportación de datos en excel y pdf
 
-### TENOLOGIA UTILIZADA
+## TENOLOGIA UTILIZADA
 
 ```
 * PHP MVC
