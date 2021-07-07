@@ -48,3 +48,12 @@ MENU PATOLOGIA
 *Visualizacipon de patologias registradas a pacientes
 *Registro de patologia identificando que la historia clinica de paciente exista.
 *Exportación de datos en excel y pdf
+
+
+TENOLOGIA UTILIZADA
+* PHP MVC
+* BOOTSTRAP 4
+* JAVASCRIPT JQUERY
+* MYSQL SERVER
+
+DESARROLLO PARTICULAR SIN EQUIPO
