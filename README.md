@@ -1,4 +1,4 @@
-## SistemaCentroObstetricoMujer
+## SistemaCentroObstetricoMujer (PARTICULAR)
 
 (Imágenes con información de prueba - Sistema en construcción)
 
@@ -56,8 +56,8 @@
 ## TENOLOGIA UTILIZADA
 
 ```
-* PHP MVC
-* BOOTSTRAP 4
+* PHP MVC 
+* BOOTSTRAP 4 (PLANTILLA ADMIN LTE)
 * JAVASCRIPT JQUERY
 * MYSQL SERVER
 ```
